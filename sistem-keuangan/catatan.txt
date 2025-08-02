@@ -1,0 +1,22 @@
+💰 Sistem keuangan pribadi
+Website sederhana untuk mencatat keuangan pribadi dengan menggunakan PHP.
+
+---------  
+
+📌 Fitur
+-Menambah dan menampilkan data pengeluaran
+
+-Menggunakan PHP tanpa database
+
+-Tampilan bersih dan responsif
+
+-Mudah dikembangkan atau dimodifikasi
+
+---------
+
+📂 Cara Menjalankan
+-Unduh atau clone repository ini
+
+-Buka folder di server lokal (seperti XAMPP atau Laragon)
+
+-Akses melalui browser di localhost/nama-folder-anda
